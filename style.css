@@ -24,6 +24,8 @@ nav, figcaption{
   margin: 0 auto;
 }
 details div{
-  float: left;
+  float: left
+  width: 25%;
+  
   
 }
