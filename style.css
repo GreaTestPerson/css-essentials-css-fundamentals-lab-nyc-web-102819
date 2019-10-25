@@ -15,6 +15,7 @@ nav a{
   background-color: grey;
   margin: 0 auto;
 }
-caption{
+nav, figcaption{
   font-size: 
+  text-align:center;
 }
